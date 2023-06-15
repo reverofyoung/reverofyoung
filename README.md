@@ -1,6 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&text=Welcome%20my%20dev%20life!&fontSize=60)
 ## Account
-  <img a href="https://velog.io/@reverofyoung" src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"> <img a href="https://github.com/reverofyoung" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+<a href="https://velog.io/@reverofyoung">
+  <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
+</a>
+<a href="https://github.com/to-ql">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+</a>
   
 
 
