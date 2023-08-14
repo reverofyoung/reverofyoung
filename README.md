@@ -6,6 +6,8 @@
 <a href="https://github.com/to-ql">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 </a>
+
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reverofyoung&show_icons=true&theme=radical)-->
   
 
 
