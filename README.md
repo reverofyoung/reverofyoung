@@ -2,6 +2,11 @@
   
 <div align="center">
   
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Freverofyoung&count_bg=%23000000&title_bg=%23FFED00&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<br />
+
+  
+    
 ### Hello, I'm Front-End Developer Yunyoung Lee or 260(just nickname😏).    
 <br />
 <br />
@@ -47,7 +52,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reverofyoung&show_icons=true&theme=github_dark)
   
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reverofyoung&layout=compact)](https://github.com/delay-100/github-readme-stats) -->
+  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reverofyoung&layout=compact)](https://github.com/delay-100/github-readme-stats) -->
 
 </div>
 
