@@ -2,13 +2,13 @@
   
 <div align="center">
   
-#### Hello, I'm Front-End Developer Yunyoung Lee or 260(just nickname😏).    
+### Hello, I'm Front-End Developer Yunyoung Lee or 260(just nickname😏).    
 <br />
 <br />
 
 
-#### 👆 Click
-<a href="https://velog.io/@reverofyoung" target="_blank">
+### 👆 Click
+<a href="https://reverofyoung.github.io/portfolio_2023/" target="_blank">
   <img src="https://img.shields.io/badge/MyPortfolio-cf0000?style=flat-square&logo=awesomelists&logoColor=white">
 </a>  
 <a href="https://velog.io/@reverofyoung" target="_blank">
@@ -23,11 +23,11 @@
 <br />
 <br />
 
-#### 👻 Makes me happy 
+### 👻 Makes me happy 
 ### 💪 🏃 📚 🎞 🎶 🩰 🍺 
 <br />
 
-#### 💻 Skill Stack 
+### 💻 Skill Stack 
 <div>
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white">
@@ -45,7 +45,7 @@
 <br />
 <br />   
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reverofyoung&show_icons=true&theme=swift)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reverofyoung&show_icons=true&theme=github_dark)
   
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reverofyoung&layout=compact)](https://github.com/delay-100/github-readme-stats) -->
 
